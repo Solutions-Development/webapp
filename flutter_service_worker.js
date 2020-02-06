@@ -11,7 +11,7 @@ const RESOURCES = {
 "/assets\packages\font_awesome_flutter\lib\fonts\fa-regular-400.ttf": "bdd8d75eb9e6832ccd3117e06c51f0d3",
 "/assets\packages\font_awesome_flutter\lib\fonts\fa-solid-900.ttf": "d21f791b837673851dd14f7c132ef32e",
 "/index.html": "dc1734d59065e09b2d75672d37f25414",
-"/main.dart.js": "b80eb583d5dd8eaa2a8ffd3fb41bf080"
+"/main.dart.js": "206e93aa1a4e19c45e19358ef2a992a8"
 };
 
 self.addEventListener('activate', function (event) {
