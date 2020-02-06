@@ -26,4 +26,4 @@ server.get('/', async function (req, reply) {
     await reply.sendFile(path.resolve('./index.html'));
 });
 
-Promise.resolve(server.listen(Process.env.PORT)).then(async () => {console.log("Server started.")})
+Promise.resolve(server.listen(process.env.PORT)).then(async () => {console.log("Server started.")})
